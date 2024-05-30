@@ -1,0 +1,13 @@
+/EWARM/STM32L053R8_Nucleo-64.dep
+STM32L053R8_Nucleo-64
+/EWARM/settings/STM32L053R8_Nucleo-64.STM32L053R8_Nucleo-64.cspy.bat
+/EWARM/settings/STM32L053R8_Nucleo-64.STM32L053R8_Nucleo-64.cspy.ps1
+/EWARM/settings/STM32L053R8_Nucleo-64.STM32L053R8_Nucleo-64.driver.xcl
+/EWARM/settings/STM32L053R8_Nucleo-64.STM32L053R8_Nucleo-64.general.xcl
+/EWARM/settings/STM32L053R8_Nucleo-64.crun
+/EWARM/settings/STM32L053R8_Nucleo-64.dbgdt
+/EWARM/settings/STM32L053R8_Nucleo-64.dnx
+/EWARM/settings/STM32L053R8_Nucleo-64.reggroups
+/EWARM/settings/Project.wsdt
+/EWARM/settings/Project.wspos
+/EWARM/I2C1 not working.log
