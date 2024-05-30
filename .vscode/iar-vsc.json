@@ -1,0 +1,6 @@
+{
+    "ewp": "c:\\STM32_examples_test_code\\STM32L053R8_Nucleo-64\\EWARM\\STM32L053R8_Nucleo-64.ewp",
+    "configuration": "STM32L053R8_Nucleo-64",
+    "compiler": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 7.5\\arm\\bin\\iccarm.exe",
+    "workbench": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 7.5"
+}

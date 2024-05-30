@@ -1,0 +1,60 @@
+Name	Value	Access	
+CR1	0x00000001	ReadWrite	
+     PECEN	0	ReadWrite	
+     ALERTEN	0	ReadWrite	
+     SMBDEN	0	ReadWrite	
+     SMBHEN	0	ReadWrite	
+     GCEN	0	ReadWrite	
+     WUPEN	0	ReadWrite	
+     NOSTRETCH	0	ReadWrite	
+     SBC	0	ReadWrite	
+     RXDMAEN	0	ReadWrite	
+     TXDMAEN	0	ReadWrite	
+     ANFOFF	0	ReadWrite	
+     DNF	0x0	ReadWrite	
+     ERRIE	0	ReadWrite	
+     TCIE	0	ReadWrite	
+     STOPIE	0	ReadWrite	
+     NACKIE	0	ReadWrite	
+     ADDRIE	0	ReadWrite	
+     RXIE	0	ReadWrite	
+     TXIE	0	ReadWrite	
+     PE	1	ReadWrite	
+CR2	0x02000000	ReadWrite	
+     PECBYTE	0	ReadWrite	
+     AUTOEND	1	ReadWrite	
+     RELOAD	0	ReadWrite	
+     NBYTES	0x64	ReadWrite	
+     NACK	0	ReadWrite	
+     STOP	0	ReadWrite	
+     START	0	ReadWrite	
+     HEAD10R	0	ReadWrite	
+     ADD10	0	ReadWrite	
+     RD_WRN	0	ReadWrite	
+     SADD	0xD0	ReadWrite	
+OAR1	0x00008000	ReadWrite	
+OAR2	0x00000000	ReadWrite	
+TIMINGR	0x00605C8B	ReadWrite	
+TIMEOUTR	0x00000000	ReadWrite	
+ISR	0x00000001	ReadWrite	
+     ADDCODE	0x0	ReadWrite	
+     DIR	0	ReadWrite	
+     BUSY	0	ReadWrite	
+     ALERT	0	ReadWrite	
+     TIMEOUT	0	ReadWrite	
+     PECERR	0	ReadWrite	
+     OVR	0	ReadWrite	
+     ARLO	0	ReadWrite	
+     BERR	0	ReadWrite	
+     TCR	0	ReadWrite	
+     TC	0	ReadWrite	
+     STOPF	0	ReadWrite	
+     NACKF	0	ReadWrite	
+     ADDR	0	ReadWrite	
+     RXNE	0	ReadWrite	
+     TXIS	0	ReadWrite	
+     TXE	1	ReadWrite	
+ICR	WWWWWWWW	WriteOnly	
+PECR	0x00000000	ReadOnly	
+RXDR	0x00000000	ReadOnly	
+TXDR	0x00000000	ReadWrite	
